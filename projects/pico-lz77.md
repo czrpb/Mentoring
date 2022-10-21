@@ -18,13 +18,23 @@
 
 ## Testcases
 
-### Basics
+### Basics without Compression
 
 | Testcase</br>Id | Input | Output |
-|---------|-------|--------|
-| TC-B-1  | `''`  | `''`   |
-| TC-B-2  | `'aa'`  | `'aa'`   |
-| TC-B-3  | `'aaaaaa'`  | `'aaaaaa'`   |
-| TC-B-4  | `'aa bb'`  | `'aa bb'`   |
-| TC-B-5  | `'aaaa bbbbb'`  | `'aaaa bbbbb'`   |
+|------------|-------|--------|
+| TC-B-NC-1  | `''`  | `''`   |
+| TC-B-NC-2  | `'aa'`  | `'aa'`   |
+| TC-B-NC-3  | `'aaaaaa'`  | `'aaaaaa'`   |
+| TC-B-NC-4  | `'aa bb'`  | `'aa bb'`   |
+| TC-B-NC-5  | `'aaaa bbbbb'`  | `'aaaa bbbbb'`   |
 
+### Basics with Compression
+
+| Testcase</br>Id | Input | Output |
+|-----------|-------|--------|
+| TC-B-C-1  | `'aa aa`  | `'aa 0'`   |
+| TC-B-C-2  | `'aa aa aa`  | `'aa 0 0'`   |
+| TC-B-C-3  | `'aa bb aa`  | `'aa bb 0'`   |
+| TC-B-C-4  | `'aa bb bb`  | `'aa bb 1'`   |
+| TC-B-C-5  | `'aa bb aa bb`  | `'aa bb 0 1'`   |
+| TC-B-C-6  | `'aa bb bb aa`  | `'aa bb 1 0'`   |
