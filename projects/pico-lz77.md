@@ -15,6 +15,7 @@
   * The input text is split into *words* from 2-6 characters
     * Again, only `a-z`, no punctuation
     * Maximum text length includes the space character separating *words*
+  * No `CR`s, meaning the text is just a stream of characters
 
 ## Testcases
 
