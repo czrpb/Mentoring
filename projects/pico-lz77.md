@@ -20,9 +20,11 @@
 
 ### Basics
 
-| Testcast</br>Id | Input | Output |
+| Testcase</br>Id | Input | Output |
 |---------|-------|--------|
 | TC-B-1  | `''`  | `''`   |
 | TC-B-2  | `'aa'`  | `'aa'`   |
-| TC-B-3  | `'aa bb'`  | `'aa bb'`   |
+| TC-B-3  | `'aaaaaa'`  | `'aaaaaa'`   |
+| TC-B-4  | `'aa bb'`  | `'aa bb'`   |
+| TC-B-5  | `'aaaa bbbbb'`  | `'aaaa bbbbb'`   |
 
