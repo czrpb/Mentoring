@@ -1,4 +1,4 @@
-# Pico LZ77
+# Femto LZ77
 
 ### Recall the basics of LZ77
 
@@ -15,7 +15,7 @@
   * The input text is split into *words* from 2-6 characters
     * Again, only `a-z`, no punctuation
     * Maximum text length includes the space character separating *words*
-  * No `CR`s, meaning the text is just a stream of characters
+  * No `LF`s/`CR`s, meaning the text is just a stream of characters
 
 ## Testcases
 
@@ -45,3 +45,13 @@
 | TC-B-C-9  | `'aa bb cc cc`  | `'aa bb cc 2'`   |
 | TC-B-C-10  | `'aa bb cc cc bb`  | `'aa bb cc 2 1'`   |
 | TC-B-C-11  | `'aa bb cc cc bb aa`  | `'aa bb cc 2 1 0'`   |
+
+### Complex: Lorem Ipsum
+
+See: https://www.lipsum.com/
+
+Downcase and stripped punctuation.
+
+`lorem ipsum dolor sit amet consectetur adipiscing elit Nulla vestibulum justo vitae nunc finibus hendrerit elementum lectus iaculis Aliquam suscipit ultricies orci ac fermentum urna mattis non Morbi id nisi vitae urna consectetur euismod velit`
+
+`lorem ipsum dolor sit amet consectetur adipiscing elit Nulla vestibulum justo vitae nunc finibus hendrerit elementum lectus iaculis Aliquam suscipit ultricies orci ac fermentum urna mattis non Morbi id nisi vitae urna 27 euismod velit`

@@ -59,7 +59,7 @@ Fundamentally, LZ77/78 compression works by:
 > 
 >   https://en.wikipedia.org/wiki/LZ77_and_LZ78
 
-### Pico LZ77/78
+### Femto LZ77/78
 
 In this variant, we will start with the following constaints:
 
@@ -68,6 +68,6 @@ In this variant, we will start with the following constaints:
   * The input text is split into *words* from 2-6 characters
     * Again, only `a-z`, no punctuation
     * Maximum text length includes the space character separating *words*
-  * No `CR`s, meaning the text is just a stream of characters
+  * No `LF`s/`CR`s, meaning the text is just a stream of characters
 
-[Pico LZ77/78](pico-lz77.md)
+[Femto LZ77/78](femto-lz77.md)
