@@ -47,12 +47,24 @@ the following music types:
 
 ## Partial Implementation fo LZ Compression
 
-In this project, you will implement a bit of
-the LZ77/78 compression algorithm.
+In this project series, you will implement a bit
+of the LZ77/78 compression algorithm.
 
-### Nano LZ77/78
+The series starts very constrained and loosens
+as it progresses.
 
-In this variant, the amount of input text
-supported will be quite small.
+### Pico LZ77/78
 
-[Partial LZ77/78](nano-lz77.md)
+In this variant, we will start with the following
+constaints:
+
+  * The total maximum input text is <255 characters.
+  * The input text consists of only the lowercase
+    english letters: `a-z`
+  * The input text is split into *words* from 2-6
+    characters.
+    * Again, only `a-z`, no punctuation.
+    * Maximum text length includes the space
+      character separating *words*.
+
+[Pico LZ77/78](pico-lz77.md)
