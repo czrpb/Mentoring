@@ -70,4 +70,8 @@ In this variant, we will start with the following constaints:
     * Maximum text length includes the space character separating *words*
   * No `LF`s/`CR`s, meaning the text is just a stream of characters
 
+Due to the requirement to lowercase and remove punctuation, this
+compression is lossy: When uncompressed it will not return the original
+text exactly. This will be handled in a later variant.
+
 [Femto LZ77/78](femto-lz77.md)

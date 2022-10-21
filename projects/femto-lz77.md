@@ -17,6 +17,8 @@
     * Maximum text length includes the space character separating *words*
   * No `LF`s/`CR`s, meaning the text is just a stream of characters
 
+This is a lossy compression due to lowercasing and removal of punctuation.
+
 ## Testcases
 
 ### Basics without Compression
@@ -49,8 +51,6 @@
 ### Complex: Lorem Ipsum
 
 See: https://www.lipsum.com/
-
-Downcase and stripped punctuation.
 
 `lorem ipsum dolor sit amet consectetur adipiscing elit Nulla vestibulum justo vitae nunc finibus hendrerit elementum lectus iaculis Aliquam suscipit ultricies orci ac fermentum urna mattis non Morbi id nisi vitae urna consectetur euismod velit`
 
