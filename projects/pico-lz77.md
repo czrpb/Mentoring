@@ -15,3 +15,14 @@
   * The input text is split into *words* from 2-6 characters
     * Again, only `a-z`, no punctuation
     * Maximum text length includes the space character separating *words*
+
+## Testcases
+
+### Basics
+
+| Testcast</br>Id | Input | Output |
+|---------|-------|--------|
+| TC-B-1  | `''`  | `''`   |
+| TC-B-2  | `'aa'`  | `'aa'`   |
+| TC-B-3  | `'aa bb'`  | `'aa bb'`   |
+
