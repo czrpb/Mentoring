@@ -26,6 +26,11 @@ can be written.
   * Data
   * Constraints
   * Attributes
+    * Reliability
+    * Availability
+    * Security
+    * Maintainability
+    * Portability
 * Verification
 
 
@@ -47,13 +52,23 @@ can be written.
 
 ### External Interfaces
 
+This section details all inputs and outputs of the system.
+
 ### Functions
+
+This section details:
+
+  * Sequence of Operations
+  * Relationships between Inputs and Outputs
 
 ### Usability
 
 ### Performance
 
 ### Data
+
+This section details the data stored by the system.
+
 
 ### Constraints
 
