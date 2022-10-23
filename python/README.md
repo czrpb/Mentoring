@@ -7,23 +7,74 @@
 
 Basic proficiency requires:
 
-  * Data Structures
-    https://docs.python.org/3/reference/datamodel.html#objects-values-and-types
-    * Numbers
-    * Strings
-    * Tuples, Lists, Sets
-    * Maps
-  * Hierarchy
-    * Functions
-    * Modules
-    * Classes
-  * Control
-    https://docs.python.org/3/reference/compound_stmts.html
-    * Decisions
-    * Loops
-  * IO
-    * Files
-    * File system
+#### Data Structures
+
+  * Numbers
+  * Strings
+  * Tuples, Lists, Sets
+  * Maps
+
+  * https://docs.python.org/3/reference/datamodel.html#objects-values-and-types
+
+  * https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial/Tuples,_Lists,_Dictionaries
+
+  * https://jakevdp.github.io/WhirlwindTourOfPython/05-built-in-scalar-types.html
+  * https://jakevdp.github.io/WhirlwindTourOfPython/06-built-in-data-structures.html
+
+  * https://python.swaroopch.com/data_structures.html
+
+  * https://developers.google.com/edu/python/strings
+  * https://developers.google.com/edu/python/lists
+  * https://developers.google.com/edu/python/dict-files
+
+
+#### Hierarchy
+
+  * Variables
+  * Functions
+  * Modules
+  * Classes
+  * Scripts
+
+  * https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial/Variables,_Scripts
+  * https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial/Functions
+  * https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial/Classes
+
+  * https://jakevdp.github.io/WhirlwindTourOfPython/03-semantics-variables.html
+  * https://jakevdp.github.io/WhirlwindTourOfPython/08-defining-functions.html
+
+  * https://python.swaroopch.com/functions.html
+  * https://python.swaroopch.com/modules.html
+
+
+#### Program Flow/Control
+
+  * Decisions
+  * Loops
+
+  * https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial/Loops,_Conditionals
+  * https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial/for_Loop
+
+
+  * https://docs.python.org/3/reference/compound_stmts.html
+
+  * https://jakevdp.github.io/WhirlwindTourOfPython/07-control-flow-statements.html
+  * https://jakevdp.github.io/WhirlwindTourOfPython/10-iterators.html
+  * https://jakevdp.github.io/WhirlwindTourOfPython/11-list-comprehensions.html
+
+  * https://python.swaroopch.com/control_flow.html
+
+
+#### IO
+
+  * Files
+  * File system
+
+  * https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial/File_I/O
+
+  * https://python.swaroopch.com/io.html
+
+  * https://developers.google.com/edu/python/dict-files
 
 
 ### Intermediate
@@ -41,6 +92,10 @@ Basic proficiency requires:
     * Sockets
     * Visualization
       * https://matplotlib.org/
+  * Regular Expressions
+    * https://jakevdp.github.io/WhirlwindTourOfPython/14-strings-and-regular-expressions.html
+    * https://developers.google.com/edu/python/regular-expressions
+
 
 ### Advanced
 
