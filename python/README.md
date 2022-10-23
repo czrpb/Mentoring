@@ -17,6 +17,10 @@ Basic proficiency requires:
     * Functions
     * Modules
     * Classes
+  * Control
+    https://docs.python.org/3/reference/compound_stmts.html
+    * Decisions
+    * Loops
   * IO
     * Files
     * File system
