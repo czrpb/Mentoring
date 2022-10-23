@@ -29,7 +29,7 @@ In this variant, you will categorize any of the following image types:
   * png
   * jpg
 
-[Project: Identify Images](image-file-types.md)
+[Project: Identify Images](file-types-image.md)
 
 ### Type: Music
 
@@ -40,7 +40,7 @@ the following music types:
   * midi
   * wav
 
-[Project: Identify Images](music-file-types.md)
+[Project: Identify Images](file-types-music.md)
 
 ## Partial Implementation fo LZ Compression
 
