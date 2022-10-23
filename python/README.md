@@ -33,9 +33,9 @@ Basic proficiency requires:
 
 #### Hierarchy
 
-    https://docs.python.org/3/tutorial/controlflow.html#defining-functions
-    https://docs.python.org/3/tutorial/controlflow.html#more-on-defining-functions
-    https://docs.python.org/3/tutorial/classes.html
+  https://docs.python.org/3/tutorial/controlflow.html#defining-functions
+  https://docs.python.org/3/tutorial/controlflow.html#more-on-defining-functions
+  https://docs.python.org/3/tutorial/classes.html
 
 
   * Variables
