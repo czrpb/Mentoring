@@ -9,9 +9,9 @@ Basic proficiency requires:
 
 #### Data Structures
 
-    https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
+  https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
 
-    https://docs.python.org/3/tutorial/datastructures.html
+  https://docs.python.org/3/tutorial/datastructures.html
 
   * Numbers
   * Strings
@@ -59,7 +59,7 @@ Basic proficiency requires:
 
 #### Program Flow/Control
 
-    https://docs.python.org/3/tutorial/controlflow.html
+  https://docs.python.org/3/tutorial/controlflow.html
 
   * Decisions
   * Loops
@@ -79,7 +79,7 @@ Basic proficiency requires:
 
 #### IO
 
-    https://docs.python.org/3/tutorial/inputoutput.html
+  https://docs.python.org/3/tutorial/inputoutput.html
 
   * Files
   * File system
