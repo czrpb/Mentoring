@@ -21,6 +21,10 @@ This exercise is also available in the Elixir and Python tracks
 In this project you will categorize all the files found in a directory and
 its sub-directories.
 
+### Requirements
+
+[Project: Identify Images - Requirements](file-types-requirements.md)
+
 ### Type: Images
 
 In this variant, you will categorize any of the following image types:
