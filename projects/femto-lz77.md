@@ -25,33 +25,29 @@ This is a lossy compression due to lowercasing and removal of punctuation.
 
 | Testcase</br>Id | Input | Output |
 |------------|-------|--------|
-| TC-B-NC-1  | `''`  | `''`   |
-| TC-B-NC-2  | `'aa'`  | `'aa'`   |
-| TC-B-NC-3  | `'aaaaaa'`  | `'aaaaaa'`   |
-| TC-B-NC-4  | `'aa bb'`  | `'aa bb'`   |
-| TC-B-NC-5  | `'aaaa bbbbb'`  | `'aaaa bbbbb'`   |
-| TC-B-NC-6  | `'aa bb cc'`  | `'aa bb cc'`   |
+| TC-B-NC-1  | `''` | `''` |
+| TC-B-NC-2  | `'aa'` | `'aa'` |
+| TC-B-NC-3  | `'aaaaaa'` | `'aaaaaa'` |
+| TC-B-NC-4  | `'aa bb'` | `'aa bb'` |
+| TC-B-NC-5  | `'aaaa bbbbb'` | `'aaaa bbbbb'` |
+| TC-B-NC-6  | `'aa bb cc'` | `'aa bb cc'` |
 
 ### Basics with Compression
 
 | Testcase</br>Id | Input | Output |
 |-----------|-------|--------|
-| TC-B-C-1  | `'aa aa`  | `'aa 0'`   |
-| TC-B-C-2  | `'aa aa aa`  | `'aa 0 0'`   |
-| TC-B-C-3  | `'aa bb aa`  | `'aa bb 0'`   |
-| TC-B-C-4  | `'aa bb bb`  | `'aa bb 1'`   |
-| TC-B-C-5  | `'aa bb aa bb`  | `'aa bb 0 1'`   |
-| TC-B-C-6  | `'aa bb bb aa`  | `'aa bb 1 0'`   |
-| TC-B-C-7  | `'aa bb cc aa`  | `'aa bb cc 0'`   |
-| TC-B-C-8  | `'aa bb cc bb`  | `'aa bb cc 1'`   |
-| TC-B-C-9  | `'aa bb cc cc`  | `'aa bb cc 2'`   |
-| TC-B-C-10  | `'aa bb cc cc bb`  | `'aa bb cc 2 1'`   |
-| TC-B-C-11  | `'aa bb cc cc bb aa`  | `'aa bb cc 2 1 0'`   |
+| TC-B-C-1  | `'aa aa` | `'aa 0'` |
+| TC-B-C-2  | `'aa aa aa` | `'aa 0 0'` |
+| TC-B-C-3  | `'aa bb aa` | `'aa bb 0'` |
+| TC-B-C-4  | `'aa bb bb` | `'aa bb 1'` |
+| TC-B-C-5  | `'aa bb aa bb` | `'aa bb 0 1'` |
+| TC-B-C-6  | `'aa bb bb aa` | `'aa bb 1 0'` |
+| TC-B-C-7  | `'aa bb cc aa` | `'aa bb cc 0'` |
+| TC-B-C-8  | `'aa bb cc bb` | `'aa bb cc 1'` |
+| TC-B-C-9  | `'aa bb cc cc` | `'aa bb cc 2'` |
+| TC-B-C-10  | `'aa bb cc cc bb` | `'aa bb cc 2 1'` |
+| TC-B-C-11  | `'aa bb cc cc bb aa` | `'aa bb cc 2 1 0'` |
 
-### Complex: Lorem Ipsum
+### Complex: Moby Dick
 
-See: https://www.lipsum.com/
-
-`lorem ipsum dolor sit amet consectetur adipiscing elit Nulla vestibulum justo vitae nunc finibus hendrerit elementum lectus iaculis Aliquam suscipit ultricies orci ac fermentum urna mattis non Morbi id nisi vitae urna consectetur euismod velit`
-
-`lorem ipsum dolor sit amet consectetur adipiscing elit Nulla vestibulum justo vitae nunc finibus hendrerit elementum lectus iaculis Aliquam suscipit ultricies orci ac fermentum urna mattis non Morbi id nisi vitae urna 27 euismod velit`
+More and more strangely and fiercely glad and approving, grew the countenance of the old man at every shout; while the mariners began to gaze curiously at each other, as if marvelling how it was that they themselves became so excited at such seemingly
