@@ -9,12 +9,15 @@ Basic proficiency requires:
 
 #### Data Structures
 
+    https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
+
+    https://docs.python.org/3/tutorial/datastructures.html
+
   * Numbers
   * Strings
   * Tuples, Lists, Sets
   * Maps
 
-  * https://docs.python.org/3/reference/datamodel.html#objects-values-and-types
 
   * https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial/Tuples,_Lists,_Dictionaries
 
@@ -29,6 +32,11 @@ Basic proficiency requires:
 
 
 #### Hierarchy
+
+    https://docs.python.org/3/tutorial/controlflow.html#defining-functions
+    https://docs.python.org/3/tutorial/controlflow.html#more-on-defining-functions
+    https://docs.python.org/3/tutorial/classes.html
+
 
   * Variables
   * Functions
@@ -49,6 +57,8 @@ Basic proficiency requires:
 
 #### Program Flow/Control
 
+    https://docs.python.org/3/tutorial/controlflow.html
+
   * Decisions
   * Loops
 
@@ -66,6 +76,8 @@ Basic proficiency requires:
 
 
 #### IO
+
+    https://docs.python.org/3/tutorial/inputoutput.html
 
   * Files
   * File system
