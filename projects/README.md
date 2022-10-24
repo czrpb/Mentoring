@@ -37,8 +37,7 @@ In this variant, you will categorize any of the following image types:
 
 ### Type: Music
 
-In this variant, you will categorize any of
-the following music types:
+In this variant, you will categorize any of the following music types:
 
   * mp4
   * midi
