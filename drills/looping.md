@@ -18,6 +18,8 @@ Example:
 <details>
 <summary>Click to see a solution, in a variety of languages.</summary>
 
+Racket (Scheme):<br/>
+
 <code>
 &gt; racket
 Welcome to Racket v8.6 [cs].
@@ -29,6 +31,8 @@ Welcome to Racket v8.6 [cs].
 3 : d
 4 : e
 </code>
+
+Elixir:<br/>
 
 <code>
 iex> s = "abcde"
@@ -45,6 +49,8 @@ iex> s |>
 4 : e
 :ok
 </code>
+
+Python:<br/>
 
 <code>
 &gt;&gt;&gt; s = "abcde"
