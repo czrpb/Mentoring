@@ -1,6 +1,6 @@
 # Looping
 
-## Characters and their offsets from a String
+## Characters And Their Offsets From A String
 
 Given a string, display each character and its offset, 1 per line.
 
@@ -65,7 +65,7 @@ Python:<br/>
 </details>
 
 
-## DRILL
+## Display Squares Except When Divisible By Another Number
 
 Given a list of numbers and a number, display the squares (n<sup>2</sup>) of the numbers in the list, excluding
 numbers that are divisible by the number given.
