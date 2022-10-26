@@ -18,11 +18,9 @@ Example:
 <details>
 <summary>Click to see a solution, in a variety of languages.</summary>
 
-Racket (Scheme):<br/>
+<br/>Racket (Scheme):<br/>
 
-<pre><code>
-&gt; racket
-Welcome to Racket v8.6 [cs].
+<pre><code>Welcome to Racket v8.6 [cs].
 &gt; (define s "abcde")
 &gt; (for ([c s] [i (in-naturals)]) (printf "~a : ~a\n" i c))
 0 : a
@@ -34,26 +32,24 @@ Welcome to Racket v8.6 [cs].
 
 Elixir:<br/>
 
-<code>
-iex> s = "abcde"
-iex> s |>
-...>   String.graphemes() |>
-...>   Enum.with_index() |>
-...>   Enum.map(fn {c, i} -> "#{i} : #{c}" end) |>
-...>   Enum.join("\n") |>
-...>   IO.puts()
+<pre><code>iex&gt; s = "abcde"
+iex&gt; s |&gt;
+...&gt;   String.graphemes() |&gt;
+...&gt;   Enum.with_index() |&gt;
+...&gt;   Enum.map(fn {c, i} -> "#{i} : #{c}" end) |&gt;
+...&gt;   Enum.join("\n") |&gt;
+...&gt;   IO.puts()
 0 : a
 1 : b
 2 : c
 3 : d
 4 : e
 :ok
-</code>
+</code></pre>
 
 Python:<br/>
 
-<code>
-&gt;&gt;&gt; s = "abcde"
+<pre><code>&gt;&gt;&gt; s = "abcde"
 &gt;&gt;&gt; i = 0
 &gt;&gt;&gt; for c in s:
 ...   print(f"{i} : {c}")
@@ -64,7 +60,7 @@ Python:<br/>
 2 : c
 3 : d
 4 : e
-</code>
+</code></pre>
 
 </details>
 
