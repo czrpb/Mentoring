@@ -20,7 +20,7 @@ Example:
 
 Racket (Scheme):<br/>
 
-<code>
+<pre><code>
 &gt; racket
 Welcome to Racket v8.6 [cs].
 &gt; (define s "abcde")
@@ -30,7 +30,7 @@ Welcome to Racket v8.6 [cs].
 2 : c
 3 : d
 4 : e
-</code>
+</code></pre>
 
 Elixir:<br/>
 
