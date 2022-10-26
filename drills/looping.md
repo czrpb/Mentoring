@@ -65,6 +65,26 @@ Python:<br/>
 </details>
 
 
+## DRILL
+
+Given a list of numbers and a number, display the squares (n<sup>2</sup>) of the numbers in the list, excluding
+numbers that are divisible by the number given.
+
+```text
+Example:
+
+[1,2,3,4,5] 3 ->
+
+1 : 1
+2 : 4
+4 : 16
+5 : 25
+```
+
+<details>
+<summary></summary>
+
+</details>
 
 
 
