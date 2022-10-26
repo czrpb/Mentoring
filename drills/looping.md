@@ -2,9 +2,8 @@
 
 ## Characters and their offsets from a String
 
-<details>
-<summary>Given a string, display each character and its offset, 1 per line.
-<br\>
+Given a string, display each character and its offset, 1 per line.
+
 Example:
 ```text
 "abcde" ->
@@ -16,22 +15,22 @@ Example:
 4 : e
 ```
 
-Click to see a solution, in a variety of languages.
-</summary>
+<details>
+<summary>Click to see a solution, in a variety of languages.</summary>
 
-```racket
-> racket
+<code>
+&gt; racket
 Welcome to Racket v8.6 [cs].
-> (define s "abcde")
-> (for ([c s] [i (in-naturals)]) (printf "~a : ~a\n" i c))
+&gt; (define s "abcde")
+&gt; (for ([c s] [i (in-naturals)]) (printf "~a : ~a\n" i c))
 0 : a
 1 : b
 2 : c
 3 : d
 4 : e
-```
+</code>
 
-```elixir
+<code>
 iex> s = "abcde"
 iex> s |>
 ...>   String.graphemes() |>
@@ -45,12 +44,12 @@ iex> s |>
 3 : d
 4 : e
 :ok
-```
+</code>
 
-```python
->>> s = "abcde"
->>> i = 0
->>> for c in s:
+<code>
+&gt;&gt;&gt; s = "abcde"
+&gt;&gt;&gt; i = 0
+&gt;&gt;&gt; for c in s:
 ...   print(f"{i} : {c}")
 ...   i += 1
 ...
@@ -59,7 +58,8 @@ iex> s |>
 2 : c
 3 : d
 4 : e
-```
+</code>
+
 </details>
 
 
