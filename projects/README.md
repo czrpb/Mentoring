@@ -86,3 +86,10 @@ In this project, you will learn:
 1. What is a microservice?
 1. How to architect with microservice(s)?
 1. Implementation without Frameworks
+
+The goal is to learn more of the foundational technologies
+around:
+
+1.  Databases
+1.  Sockets/HTTP/APIs/Routing
+1.  Web UI/XHR
