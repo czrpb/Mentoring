@@ -78,3 +78,15 @@ compression is lossy: When uncompressed it will not return the original
 text exactly. This will be handled in a later variant.
 
 [Femto LZ77/78](femto-lz77.md)
+
+## Address Book as Microservice(s)
+
+In this project, you would learn:
+
+### What is a microservice?
+
+### How to architect with microservice(s)?
+
+### Implementation without Frameworks
+
+
