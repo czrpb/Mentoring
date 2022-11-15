@@ -81,12 +81,8 @@ text exactly. This will be handled in a later variant.
 
 ## Address Book as Microservice(s)
 
-In this project, you would learn:
+In this project, you will learn:
 
-### What is a microservice?
-
-### How to architect with microservice(s)?
-
-### Implementation without Frameworks
-
-
+1. What is a microservice?
+1. How to architect with microservice(s)?
+1. Implementation without Frameworks
