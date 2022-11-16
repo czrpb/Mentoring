@@ -79,7 +79,7 @@ text exactly. This will be handled in a later variant.
 
 [Femto LZ77/78](femto-lz77.md)
 
-## Address Book as Microservice(s)
+## Contact List as Microservice(s)
 
 In this project, you will learn:
 
@@ -93,3 +93,5 @@ around:
 1.  Databases
 1.  Sockets/HTTP/APIs/Routing
 1.  Web UI/XHR
+
+[Contact List](contact-list.md)
