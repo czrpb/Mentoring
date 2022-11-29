@@ -100,7 +100,24 @@ around:
 
 ## Binary Tree
 
-## Network Theory: Centrality
+Implement a binary tree:
+
+https://en.wikipedia.org/wiki/Binary_tree
+
+https://en.wikipedia.org/wiki/Binary_search_tree
+
+https://computersciencewiki.org/index.php/Binary_tree
+
+
+## Network Theory
+
+#### Implement: Adjacency Matrix
+
+#### Centrality
+
+https://algodaily.com/lessons/implementing-graphs-edge-list-adjacency-list-adjacency-matrix
+
+#### Clustering
 
 ## Pushdown Automata
 
