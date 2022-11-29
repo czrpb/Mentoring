@@ -111,11 +111,22 @@ https://computersciencewiki.org/index.php/Binary_tree
 
 ## Network Theory
 
-#### Implement: Adjacency Matrix
+Implement the following . . .
+
+#### Adjacency Matrix
+
+https://algodaily.com/lessons/implementing-graphs-edge-list-adjacency-list-adjacency-matrix
 
 #### Centrality
 
-https://algodaily.com/lessons/implementing-graphs-edge-list-adjacency-list-adjacency-matrix
+* Degree
+* Closeness
+* Decay
+* Betweenness
+
+https://www.researchgate.net/publication/216637282_A_Set_of_Measures_of_Centrality_Based_on_Betweenness
+
+https://faculty.ucr.edu/~hanneman/nettext/C10_Centrality.html
 
 #### Clustering
 
