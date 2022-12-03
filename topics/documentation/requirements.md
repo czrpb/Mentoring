@@ -69,9 +69,24 @@ Examples of relevant information:
 
 This section is sometimes called *(system) architecture*.
 
+#### Use Cases
+
+#### Personas
+
+#### Diagrams
+
+Useful diagrams include:
+
+* [Sequence](https://en.wikipedia.org/wiki/Sequence_diagram)
+
 ### Requirements Specification
 
 #### Interfaces
+
+Describe the interfaces:
+
+* The SW as a black box
+
 
 #### Functional
 
