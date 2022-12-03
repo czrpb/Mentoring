@@ -6,11 +6,12 @@ References:
 
 * https://en.wikipedia.org/wiki/Software_requirements_specification
 * https://www.perforce.com/blog/alm/how-write-software-requirements-specification-srs-document
-
+* https://web.mit.edu/odsue/odsue-it/cis/SRSTemplate.html
 
 #### Examples
 
 * https://web.cse.ohio-state.edu/~bair.41/616/Project/Example_Document/Req_Doc_Example.html
+* https://www.cse.msu.edu/~cse435/Handouts/SRSExample-webapp.doc
 
 ## Basic Outline
 
