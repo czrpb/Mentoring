@@ -43,7 +43,9 @@ https://www.sebokwiki.org/wiki/Guide_to_the_Systems_Engineering_Body_of_Knowledg
 
 https://en.wikipedia.org/wiki/Software_requirements_specification
 
+ISO/IEEE 29148-2018
 
+[Requirements](requirements.md)
 
 #### Testing
 
