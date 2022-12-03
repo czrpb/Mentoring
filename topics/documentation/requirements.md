@@ -78,6 +78,9 @@ This section is sometimes called *(system) architecture*.
 Useful diagrams include:
 
 * [Sequence](https://en.wikipedia.org/wiki/Sequence_diagram)
+* [Activity](https://en.wikipedia.org/wiki/Activity_diagram)
+* [Causal Loop](https://thesystemsthinker.com/causal-loop-construction-the-basics/)
+* [State](https://en.wikipedia.org/wiki/State_diagram)
 
 ### Requirements Specification
 
