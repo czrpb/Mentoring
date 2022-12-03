@@ -8,7 +8,17 @@ Links and references:
 
 ## Basic Outline
 
-Here are the minimum sections you should have.
+Here are the minimum sections you should have:
+
+1. **Identification**: Title, Author, Date, etc
+1. **Motivation**: Why is the SW being written?
+1. **Influences**: What concepts -- -- are influencing the purpose, design and construction of the SW?
+1. **Context**: 
+1. **Design**: 
+1. **Specification**: 
+1. **Validation**: 
+
+Details follow . . .
 
 ### Identification
 
