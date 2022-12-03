@@ -13,10 +13,10 @@ Here are the minimum sections you should have:
 1. **Identification**: Title, Author, Date, etc
 1. **Motivation**: Why is the SW being written?
 1. **Influences**: What concepts -- -- are influencing the purpose, design and construction of the SW?
-1. **Context**: 
-1. **Design**: 
-1. **Specification**: 
-1. **Validation**: 
+1. **Context**: Who is the SW for? How is to be run?
+1. **Design**: What is the high-level design?
+1. **Specification**: What are the SW's: interfaces, functions, useability, etc.
+1. **Validation**: How is the SW to be tested?
 
 Details follow . . .
 
