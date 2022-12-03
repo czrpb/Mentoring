@@ -25,7 +25,7 @@ Here are the minimum sections you should have:
 1. **Specification**: What are the SW's: interfaces, functions, useability, etc.
 1. **Validation**: How is the SW to be tested?
 
-Details follow . . .
+## Details
 
 ### Identification
 
