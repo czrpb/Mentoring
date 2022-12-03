@@ -2,9 +2,15 @@
 
 Documenting a software system's requirements is a must.
 
-Links and references:
+References:
 
 * https://en.wikipedia.org/wiki/Software_requirements_specification
+* https://www.perforce.com/blog/alm/how-write-software-requirements-specification-srs-document
+
+
+#### Examples
+
+* https://web.cse.ohio-state.edu/~bair.41/616/Project/Example_Document/Req_Doc_Example.html
 
 ## Basic Outline
 
