@@ -2,6 +2,10 @@
 
 Documenting a software system's requirements is a must.
 
+Links and references:
+
+* https://en.wikipedia.org/wiki/Software_requirements_specification
+
 ## Basic Outline
 
 Here are the minimum sections you should have.
@@ -39,4 +43,28 @@ This section is sometimes called *environment*.
 
 The purpose of this section is to describe the conditions under which the software is expected to operate. It should also describe conditions and constraints in which the software is expected to degrade or cease to function altogether.
 
-## More Detail
+Examples of relevant information:
+
+1. Hardware (system) requirement
+1. asdf
+
+### Design Overview
+
+This section is sometimes called *(system) architecture*.
+
+### Requirements Specification
+
+#### Interfaces
+
+#### Functional
+
+#### Useability
+
+#### Observability
+
+#### Sustainability
+
+### Verification
+
+This section is sometimes called *(software or system) testing*.
+
