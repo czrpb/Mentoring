@@ -2,6 +2,10 @@
 
 Documenting a software system's requirements is a must.
 
+Template:
+
+[requirements-template.md](requirements-template.md)
+
 References:
 
 * https://en.wikipedia.org/wiki/Software_requirements_specification
@@ -19,7 +23,7 @@ Here are the minimum sections you should have:
 
 1. **Identification**: Title, Author, Date, etc
 1. **Motivation**: Why is the SW being written?
-1. **Influences**: What concepts -- -- are influencing the purpose, design and construction of the SW?
+1. **Influences**: What concepts -- OO/Functional, Relational/Key-Value, Semantic Data, Regression/Stastical/Network ML -- are influencing the purpose, design and construction of the SW? What other SW is similar?
 1. **Context**: Who is the SW for? How is to be run?
 1. **Design**: What is the high-level design?
 1. **Specification**: What are the SW's: interfaces, functions, useability, etc.
