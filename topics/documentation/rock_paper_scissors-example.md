@@ -53,7 +53,7 @@ Initial design was sketched and is as follows:
 
 <table border="2"><tr>
 <td><img src="design-sketch-01.jpeg" height="500"></td>
-<td><table>
+<td valign="top"><table>
   <tr>
     <th>Services</th>
     <th>adf</th>
