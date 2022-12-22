@@ -1,6 +1,6 @@
-# Rock Paper Scissors Game
+# Distributed Rock Paper Scissors Game
 
-This is the requirements document for Rock Paper Scissors.
+This is the requirements document for Distributed Rock Paper Scissors - DRPS.
 
 | Title | Author | Date | Version | State |
 |-------|--------|------|-------|------|
@@ -8,9 +8,11 @@ This is the requirements document for Rock Paper Scissors.
 
 ## Motivation
 
-Rock Paper Scissors is a simple and fun decision-making process. Choosing between 2 options is actually not always clear. At some point a decision just needs to be made so progress towards the goal does not become stalled.
+Rock Paper Scissors is a fun game and can also be used as a decision-making process. Choosing between 2 options is actually not always clear. At some point a decision just needs to be made so progress towards the goal does not become stalled.
 
-Rock Paper Scissors makes the choosing simple, quick and fun!
+**Rock Paper Scissors makes the choosing simple, quick and fun!**
+
+> NOTE: DRPS is only a method for choosing between previous generate options which are consider roughtly equivalent and the team cant seem to come to a consensus on.
 
 ## Influences
 
