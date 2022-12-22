@@ -4,7 +4,7 @@ This is the requirements document for `Distributed Rock Paper Scissors` - `DRPS`
 
 | Title | Author | Date | Version | State |
 |-------|--------|------|-------|------|
-| `Rock Paper Scissors Game` | Q | 12/22/2022 | 0.1 | `DRAFT` |
+| `Distributed Rock Paper Scissors` | Q | 12/22/2022 | 0.1 | `DRAFT` |
 
 ## Motivation
 
