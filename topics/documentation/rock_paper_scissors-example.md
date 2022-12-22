@@ -34,10 +34,16 @@ Since our main influence is the Internet/*Web* we will be assuming and requiring
 * Internet access
 * Browser
 
-The environment on which the system will run will be:
+The HW environment shall be:
 
 * A cloud service provider
 * Locally hosted servers
+
+The SW tools shall be:
+
+* A *discovery* solution (hosted in above cloud)
+* *Hubs* written Elixir/Phoenix
+* *Game* microserves written in Racket
 
 ## Design
 
@@ -45,6 +51,17 @@ The environment on which the system will run will be:
 
 Initial design was sketched and is as follows:
 
+<img src="design-sketch-1.png">
+
+#### Decision Sequence Diagram
+
+### Use Cases
+
+#### Use-Case-1
+
+`DESCRIPTION`
+
+##### Activity Diagram
 
 ## Specification
 
