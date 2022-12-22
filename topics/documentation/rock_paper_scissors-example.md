@@ -56,8 +56,8 @@ Initial design was sketched and is as follows:
 <td valign="top"><table>
   <tr>
     <th>Services</th>
-    <th>Service<->Service</th>
-    <th>Person<->Service</th>
+    <th>Service`<->`Service</th>
+    <th>Person`<->`Service</th>
   </tr>
   <tr>
     <td>
