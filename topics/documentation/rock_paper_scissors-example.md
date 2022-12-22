@@ -8,7 +8,7 @@ This is the requirements document for Rock Paper Scissors.
 
 ## Motivation
 
-Rock Paper Scissors is a simple and fun decision-making process. Choosing between 2 options is actually not always clear.
+Rock Paper Scissors is a simple and fun decision-making process. Choosing between 2 options is actually not always clear. At some point a decision just needs to be made so progress towards the goal does not become stalled.
 
 Rock Paper Scissors makes the choosing simple, quick and fun!
 
