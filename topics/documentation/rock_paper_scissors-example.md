@@ -53,12 +53,20 @@ Initial design was sketched and is as follows:
 
 <table border="2"><tr>
 <td><img src="design-sketch-01.jpeg" height="500"></td>
-<td><ol type="A">
-  <li>adsf</li>
-  <li>adf</li>
-</ol></td>
-<td></td>
-<td></td>
+<td><table>
+  <tr>
+    <th>Services</th>
+    <th>adf</th>
+  </tr>
+  <tr>
+    <td>
+      <ol type="A">
+        <li>adsf</li>
+        <li>adf</li>
+      </ol>
+    </td>
+  </tr>
+</table></td>
 </tr></table>
 
 
