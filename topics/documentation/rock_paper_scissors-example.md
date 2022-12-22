@@ -51,7 +51,7 @@ The SW tools shall be:
 
 Initial design was sketched and is as follows:
 
-<img src="design-sketch-1.png">
+<img src="design-sketch-01.jpeg">
 
 #### Decision Sequence Diagram
 
