@@ -56,13 +56,29 @@ Initial design was sketched and is as follows:
 <td valign="top"><table>
   <tr>
     <th>Services</th>
-    <th>adf</th>
+    <th>Service<->Service</th>
+    <th>Person<->Service</th>
   </tr>
   <tr>
     <td>
+      <ol type="I">
+        <li>Directory</li>
+        <li>Hub(s)</li>
+        <li>Game(s)</li>
+      </ol>
+    </td>
+    <td>
       <ol type="A">
-        <li>adsf</li>
-        <li>adf</li>
+        <li>Registry</li>
+        <li>Syncronization</li>
+        <li></li>
+      </ol>
+    </td>
+    <td>
+      <ol type="1">
+        <li>Discovery</li>
+        <li>Game Creation</li>
+        <li>Game Invitation</li>
       </ol>
     </td>
   </tr>
