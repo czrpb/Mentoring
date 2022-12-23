@@ -115,6 +115,19 @@ sequenceDiagram
   actor Person
 
   Person->>Directory: Find a Hub
+  Directory->>Hub: Redirect to a Hub
+
+  Person->>Hub: Create a Game
+  Hub->>Game: Make a Decision (Play a Game)
+
+  Game->>Person: A Decision
+```
+```mermaid
+sequenceDiagram
+  autonumber
+  actor Person
+
+  Person->>Directory: Find a Hub
   Directory->>Person: Redirect to a Hub
 ```
 ```mermaid
@@ -122,10 +135,10 @@ sequenceDiagram
   autonumber
   actor Person
   
-  Person->>Hub: Create a Game
+  Person->>Hub: Create a New Game
   Person->>Hub: Invite Others
   Person->>Hub: Set Game Duration
-  Hub->>Person: New Game
+  Hub->>Person: Redirect to a New Game
 ```
 
 ### Use Cases
