@@ -69,9 +69,8 @@ Initial design was sketched and is as follows:
     </td>
     <td>
       <ol type="A">
-        <li>Registry</li>
-        <li>Syncronization</li>
-        <li></li>
+        <li>Hub Registry</li>
+        <li>Hub Syncronization</li>
       </ol>
     </td>
     <td>
