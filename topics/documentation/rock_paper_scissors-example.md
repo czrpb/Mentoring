@@ -60,20 +60,20 @@ Initial design was sketched and is as follows:
     <th>Person`<->`Service</th>
   </tr>
   <tr>
-    <td>
+    <td valign="top">
       <ol type="I">
         <li>Directory</li>
         <li>Hub(s)</li>
         <li>Game(s)</li>
       </ol>
     </td>
-    <td>
+    <td valign="top">
       <ol type="A">
         <li>Hub Registry</li>
         <li>Hub Syncronization</li>
       </ol>
     </td>
-    <td>
+    <td valign="top">
       <ol type="1">
         <li>Hub Discovery</li>
         <li>Game Creation</li>
