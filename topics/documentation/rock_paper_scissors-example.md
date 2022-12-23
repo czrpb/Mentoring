@@ -57,7 +57,7 @@ Initial design was sketched and is as follows:
   <tr>
     <th>Services</th>
     <th>Service<code>&lt;-&gt;</code>Service</th>
-    <th>Person`<->`Service</th>
+    <th>Person<code>&lt;-&gt;</code>Service</th>
   </tr>
   <tr>
     <td valign="top">
