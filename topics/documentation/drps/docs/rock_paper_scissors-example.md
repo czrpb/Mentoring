@@ -87,8 +87,15 @@ Initial design was sketched and is as follows:
 </table></td>
 </tr></table>
 
+#### Service Details
 
-#### Decision Sequence Diagram
+##### Directory
+
+##### Hub
+
+##### Game
+
+#### Decision (Game) Sequence Diagram
 
 ### Use Cases
 
