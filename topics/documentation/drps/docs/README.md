@@ -112,9 +112,16 @@ Other members of the team are invited and then can participate is the decision-m
 ```mermaid
 sequenceDiagram
   autonumber
+  actor Person
+
   Person->>Directory: Find a Hub
   Directory->>Person: Redirect to a Hub
-
+```
+```mermaid
+sequenceDiagram
+  autonumber
+  actor Person
+  
   Person->>Hub: Create a Game
   Hub->>Person: New Game
 
