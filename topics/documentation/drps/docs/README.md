@@ -113,7 +113,7 @@ Other members of the team are invited and then can participate is the decision-m
 sequenceDiagram
   autonumber
   Person->>+Directory: Find a Hub
-  Directory->>Person: Redirect to a Hub
+  Directory-->Person: Redirect to a Hub
 ```
 
 ### Use Cases
