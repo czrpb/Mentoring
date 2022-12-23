@@ -122,6 +122,13 @@ sequenceDiagram
 
   Game->>Person: A Decision
 ```
+
+### Use Cases
+
+#### Find a Hub
+
+`DESCRIPTION`
+
 ```mermaid
 sequenceDiagram
   autonumber
@@ -130,6 +137,13 @@ sequenceDiagram
   Person->>Directory: Find a Hub
   Directory->>Person: Redirect to a Hub
 ```
+
+##### Activity Diagram
+
+#### Create a New Game
+
+`DESCRIPTION`
+
 ```mermaid
 sequenceDiagram
   autonumber
@@ -140,12 +154,6 @@ sequenceDiagram
   Person->>Hub: Set Game Duration
   Hub->>Person: Redirect to a New Game
 ```
-
-### Use Cases
-
-#### Use-Case-1
-
-`DESCRIPTION`
 
 ##### Activity Diagram
 
