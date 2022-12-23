@@ -76,9 +76,12 @@ Initial design was sketched and is as follows:
     </td>
     <td>
       <ol type="1">
-        <li>Discovery</li>
+        <li>Hub Discovery</li>
         <li>Game Creation</li>
+        <li>Game Invite</li>
         <li>Game Invitation</li>
+        <li>Game Play(!)</li>
+        <li>Game Review</li>
       </ol>
     </td>
   </tr>
