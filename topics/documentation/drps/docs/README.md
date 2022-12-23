@@ -123,10 +123,9 @@ sequenceDiagram
   actor Person
   
   Person->>Hub: Create a Game
-  Hub->>Person: New Game
-
   Person->>Hub: Invite Others
   Person->>Hub: Set Game Duration
+  Hub->>Person: New Game
 ```
 
 ### Use Cases
