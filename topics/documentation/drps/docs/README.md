@@ -135,7 +135,8 @@ sequenceDiagram
   actor Person
 
   Person->>Directory: Find a Hub
-  Directory->>Person: Redirect to a Hub
+  Directory-->>Person: Redirect to a Hub
+  Person-->>Hub: Hub Landing Page
 ```
 
 ##### Activity Diagram
