@@ -127,7 +127,13 @@ sequenceDiagram
 
 #### Find a Hub
 
-`DESCRIPTION`
+The Hub service:
+
+1. Is where a decision-making game is started
+1. The list of current decision-making games, some of which the user can join having been invited
+1. The list of past decisions made
+
+
 
 ```mermaid
 sequenceDiagram
@@ -136,7 +142,7 @@ sequenceDiagram
 
   Person->>Directory: Find a Hub
   Directory-->>Person: Redirect to a Hub
-  Person-->>Hub: Hub Landing Page
+  Person->>Hub: Hub Landing Page
 ```
 
 ##### Activity Diagram
