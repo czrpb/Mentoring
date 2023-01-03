@@ -24,7 +24,7 @@ The development team also has skills and experience with distributed architectur
 
 * Microservices
 * Elixir/Erlang/OTP
-
+* Linked data
 
 
 ## Context
@@ -43,7 +43,7 @@ The SW tools shall be:
 
 * A *discovery* solution (hosted in above cloud)
 * *Hubs* written Elixir/Phoenix
-* *Game* microserves written in Racket
+* *Game* microservices written in Racket
 
 ## Design
 
