@@ -3,7 +3,7 @@
 This is the requirements document for `Distributed Rock Paper Scissors` - `DRPS`.
 
 | Title | Code<br/>Name | Author | Date | Version | State |
-|-------|------|--------|------|-------|------|
+|:-----:|------|--------|------|-------|------|
 | `Distributed Rock Paper Scissors`<br/>(`DRPS`) | DRiPS | Q | 12/22/2022 | 0.1 | `DRAFT` |
 
 ## Motivation
