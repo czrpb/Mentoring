@@ -87,13 +87,13 @@ Initial design was sketched and is as follows:
 </table></td>
 </tr></table>
 
-#### Service Details
+### Service Details
 
-##### Directory
+#### Directory
 
 The directory service is the entry point into DRPS. It will simply list the available Hubs for the team to choose.
 
-##### Hub
+#### Hub
 
 Hubs are where the team can:
 
@@ -101,13 +101,13 @@ Hubs are where the team can:
 2. Find invitations to and participate in a decision process (game)
 3. Review previous decisions (games)
 
-##### Game
+#### Game
 
 Games are where a decision is made. A game is ephemeral, meaning a Game service is created when someone on the team starts a decision-making process and shutdowns based on the criteria they set on creation.
 
 Other members of the team are invited and then can participate is the decision-making by making their play.
 
-#### Decision (Game) Sequence Diagram
+### Decision (Game) Sequence Diagram
 
 ```mermaid
 sequenceDiagram
