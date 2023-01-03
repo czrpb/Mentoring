@@ -12,7 +12,7 @@ Rock Paper Scissors is a fun game and can also be used as a decision-making proc
 
 **`Distributed Rock Paper Scissors` makes the choosing simple, quick and fun!**
 
-> NOTE: `DRPS` is only a method for choosing between previous generate options which are consider roughtly equivalent and the team cant seem to come to a consensus on.
+> NOTE: `DRPS` is only a method for choosing between options already created and debated by a team which are consider roughtly equivalent and the team cant seem to come to a consensus on.
 
 ## Influences
 
