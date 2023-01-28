@@ -130,7 +130,7 @@ sequenceDiagram
 The Hub service:
 
 1. Is where a decision-making game is started
-1. The list of current decision-making games, some of which the user can join having been invited
+1. The list of current decision-making games, some of which the user can join if having been invited
 1. The list of past decisions made
 
 

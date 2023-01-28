@@ -134,3 +134,21 @@ https://faculty.ucr.edu/~hanneman/nettext/C10_Centrality.html
 
 ## Pushdown Automata
 
+## Trees Structures
+
+### Binary Trees - Simple
+
+Implement a binary tree API and the following functions on them:
+
+  * make-node
+  * tree-add
+
+  * tree->dfs
+  * tree->bfs
+  * tree->paths
+  * tree-contains?
+
+The tree should accept any ordered set and allow for duplicates.
+
+### Binary Heap - Simple
+
